@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Ronica's Stuff/ActualFolder/ActualScenes/SplashScreen.unity
+- path: C:/Users/Abdulrahman/Documents/Amal Model/Assets/Scenes/Scene.unity
   isLoaded: 1
   isActive: 1

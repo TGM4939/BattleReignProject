@@ -7,32 +7,80 @@ Direct3D:
     VRAM:     912 MB
     Driver:   10.18.10.4358
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Abdulrahman\Documents\BattleReign\Game_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Abdulrahman\Documents\BattleReign\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Abdulrahman\Documents\BattleReign\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Abdulrahman\Documents\BattleReign\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Abdulrahman\Documents\BattleReign\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Abdulrahman\Documents\BattleReign\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Abdulrahman\Documents\BattleReign\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Abdulrahman\Documents\BattleReign\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Abdulrahman\Documents\BattleReign\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading C:\Users\Abdulrahman\Documents\BattleReign\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-Platform assembly: C:\Users\Abdulrahman\Documents\BattleReign\Game_Data\Managed\Photon3Unity3D.dll (this message is harmless)
-Loading C:\Users\Abdulrahman\Documents\BattleReign\Game_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.049 seconds
-Platform assembly: C:\Users\Abdulrahman\Documents\BattleReign\Game_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Abdulrahman\Documents\BattleReign\Game_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Abdulrahman\Videos\Copy 3\T5-Multiplayer-Game\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Abdulrahman\Videos\Copy 3\T5-Multiplayer-Game\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Abdulrahman\Videos\Copy 3\T5-Multiplayer-Game\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Abdulrahman\Videos\Copy 3\T5-Multiplayer-Game\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Abdulrahman\Videos\Copy 3\T5-Multiplayer-Game\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Abdulrahman\Videos\Copy 3\T5-Multiplayer-Game\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Abdulrahman\Videos\Copy 3\T5-Multiplayer-Game\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Abdulrahman\Videos\Copy 3\T5-Multiplayer-Game\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Abdulrahman\Videos\Copy 3\T5-Multiplayer-Game\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Abdulrahman\Videos\Copy 3\T5-Multiplayer-Game\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Abdulrahman\Videos\Copy 3\T5-Multiplayer-Game\Game_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Abdulrahman\Videos\Copy 3\T5-Multiplayer-Game\Game_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+Platform assembly: C:\Users\Abdulrahman\Videos\Copy 3\T5-Multiplayer-Game\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Abdulrahman\Videos\Copy 3\T5-Multiplayer-Game\Game_Data\Managed\System.dll (this message is harmless)
 desktop: 1600x900 50Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.427000 ms
+UnloadTime: 1.638839 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1678 -> priority: 1 
+  Thread -> id: 44cc -> priority: 1 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.419551 ms
+UnloadTime: 16.712305 ms
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 428.
-Total: 0.431466 ms (FindLiveObjects: 0.039410 ms CreateObjectMapping: 0.043105 ms MarkObjects: 0.335402 ms  DeleteObjects: 0.012726 ms)
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 695.
+Total: 6.899793 ms (FindLiveObjects: 0.136706 ms CreateObjectMapping: 0.084569 ms MarkObjects: 1.220097 ms  DeleteObjects: 5.454314 ms)
+
+The referenced script on this Behaviour (Game Object 'Character_1') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Character_1') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Character_2') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Character_2') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Character_1') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Character_2') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Character_1') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Character_2') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 28.225643 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 1114.
+Total: 5.979383 ms (FindLiveObjects: 0.087853 ms CreateObjectMapping: 0.189254 ms MarkObjects: 1.179044 ms  DeleteObjects: 4.521998 ms)
+
+Connecting to a room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.870736 ms
+
+Unloading 301 unused Assets to reduce memory usage. Loaded Objects now: 1070.
+Total: 3.927549 ms (FindLiveObjects: 0.197875 ms CreateObjectMapping: 0.079643 ms MarkObjects: 0.651923 ms  DeleteObjects: 2.997286 ms)
 
